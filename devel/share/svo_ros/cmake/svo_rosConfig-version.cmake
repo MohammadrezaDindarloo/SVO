@@ -1,1 +1,0 @@
-/home/mohammad/svo/devel/.private/svo_ros/share/svo_ros/cmake/svo_rosConfig-version.cmake

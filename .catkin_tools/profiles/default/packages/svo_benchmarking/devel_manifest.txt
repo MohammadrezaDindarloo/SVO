@@ -1,3 +1,0 @@
-rpg_svo_pro_open/svo_benchmarking
-/home/mohammad/svo/devel/.private/svo_benchmarking/cmake.lock /home/mohammad/svo/devel/./cmake.lock
-/home/mohammad/svo/devel/.private/svo_benchmarking/lib/python2.7/dist-packages/svo_benchmarking/__init__.py /home/mohammad/svo/devel/lib/python2.7/dist-packages/svo_benchmarking/__init__.py

@@ -1,6 +1,0 @@
-rpg_svo_pro_open/svo_test_utils
-/home/mohammad/svo/devel/.private/svo_test_utils/cmake.lock /home/mohammad/svo/devel/./cmake.lock
-/home/mohammad/svo/devel/.private/svo_test_utils/lib/libsvo_test_utils.so /home/mohammad/svo/devel/lib/libsvo_test_utils.so
-/home/mohammad/svo/devel/.private/svo_test_utils/lib/pkgconfig/svo_test_utils.pc /home/mohammad/svo/devel/lib/pkgconfig/svo_test_utils.pc
-/home/mohammad/svo/devel/.private/svo_test_utils/share/svo_test_utils/cmake/svo_test_utilsConfig.cmake /home/mohammad/svo/devel/share/svo_test_utils/cmake/svo_test_utilsConfig.cmake
-/home/mohammad/svo/devel/.private/svo_test_utils/share/svo_test_utils/cmake/svo_test_utilsConfig-version.cmake /home/mohammad/svo/devel/share/svo_test_utils/cmake/svo_test_utilsConfig-version.cmake

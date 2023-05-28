@@ -1,1 +1,0 @@
-/home/mohammad/svo/devel/.private/svo_ros/lib/pkgconfig/svo_ros.pc

@@ -1,1 +1,0 @@
-/home/mohammad/svo/devel/.private/svo_msgs/include/svo_msgs/DenseInput.h

@@ -1,5 +1,0 @@
-use conda envireonment
-source devel/setup.bash
-from svo run:
-roslaunch svo_ros run_from_bag.launch cam_name:=aras_cam_ef_mono_v2
-

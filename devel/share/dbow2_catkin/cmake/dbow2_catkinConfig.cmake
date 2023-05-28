@@ -1,1 +1,0 @@
-/home/mohammad/svo/devel/.private/dbow2_catkin/share/dbow2_catkin/cmake/dbow2_catkinConfig.cmake

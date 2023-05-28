@@ -1,1 +1,0 @@
-/home/mohammad/svo/devel/.private/ceres_catkin/include/ceres/internal/fixed_array.h

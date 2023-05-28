@@ -1,1 +1,0 @@
-/home/mohammad/svo/devel/.private/rqt_svo/lib/python2.7/dist-packages/rqt_svo/__init__.py

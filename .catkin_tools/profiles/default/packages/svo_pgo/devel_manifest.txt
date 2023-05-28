@@ -1,7 +1,0 @@
-rpg_svo_pro_open/svo_pgo
-/home/mohammad/svo/devel/.private/svo_pgo/cmake.lock /home/mohammad/svo/devel/./cmake.lock
-/home/mohammad/svo/devel/.private/svo_pgo/lib/libsvo_pgo.so /home/mohammad/svo/devel/lib/libsvo_pgo.so
-/home/mohammad/svo/devel/.private/svo_pgo/lib/pkgconfig/svo_pgo.pc /home/mohammad/svo/devel/lib/pkgconfig/svo_pgo.pc
-/home/mohammad/svo/devel/.private/svo_pgo/lib/svo_pgo/test_pgo /home/mohammad/svo/devel/lib/svo_pgo/test_pgo
-/home/mohammad/svo/devel/.private/svo_pgo/share/svo_pgo/cmake/svo_pgoConfig-version.cmake /home/mohammad/svo/devel/share/svo_pgo/cmake/svo_pgoConfig-version.cmake
-/home/mohammad/svo/devel/.private/svo_pgo/share/svo_pgo/cmake/svo_pgoConfig.cmake /home/mohammad/svo/devel/share/svo_pgo/cmake/svo_pgoConfig.cmake

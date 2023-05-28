@@ -1,8 +1,0 @@
-prefix=/home/mohammad/svo/devel/.private/eigen_checks
-
-Name: eigen_checks
-Description: Description of eigen_checks
-Version: 0.0.1
-Cflags: -I/home/mohammad/svo/src/eigen_checks/include
-Libs: -L${prefix}/lib -leigen_checks
-Requires: 

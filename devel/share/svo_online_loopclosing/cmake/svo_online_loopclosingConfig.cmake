@@ -1,1 +1,0 @@
-/home/mohammad/svo/devel/.private/svo_online_loopclosing/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig.cmake

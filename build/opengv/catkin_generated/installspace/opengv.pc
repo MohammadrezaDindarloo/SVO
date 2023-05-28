@@ -1,8 +1,0 @@
-prefix=/home/mohammad/svo/install
-
-Name: opengv
-Description: Description of opengv
-Version: 1.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib -lopengv -lrandom_generators
-Requires: 

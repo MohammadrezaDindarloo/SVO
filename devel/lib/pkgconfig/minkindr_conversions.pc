@@ -1,1 +1,0 @@
-/home/mohammad/svo/devel/.private/minkindr_conversions/lib/pkgconfig/minkindr_conversions.pc

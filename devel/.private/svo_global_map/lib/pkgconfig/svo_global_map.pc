@@ -1,8 +1,0 @@
-prefix=/home/mohammad/svo/devel/.private/svo_global_map
-
-Name: svo_global_map
-Description: Description of svo_global_map
-Version: 0.0.1
-Cflags: -I/home/mohammad/svo/src/rpg_svo_pro_open/svo_global_map/include
-Libs: -L${prefix}/lib -lsvo_global_map
-Requires: svo_vio_common svo_common rpg_common

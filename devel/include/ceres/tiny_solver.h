@@ -1,1 +1,0 @@
-/home/mohammad/svo/devel/.private/ceres_catkin/include/ceres/tiny_solver.h

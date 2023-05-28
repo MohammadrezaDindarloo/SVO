@@ -1,6 +1,0 @@
-rpg_svo_pro_open/svo_common
-/home/mohammad/svo/devel/.private/svo_common/cmake.lock /home/mohammad/svo/devel/./cmake.lock
-/home/mohammad/svo/devel/.private/svo_common/lib/libsvo_common.so /home/mohammad/svo/devel/lib/libsvo_common.so
-/home/mohammad/svo/devel/.private/svo_common/lib/pkgconfig/svo_common.pc /home/mohammad/svo/devel/lib/pkgconfig/svo_common.pc
-/home/mohammad/svo/devel/.private/svo_common/share/svo_common/cmake/svo_commonConfig.cmake /home/mohammad/svo/devel/share/svo_common/cmake/svo_commonConfig.cmake
-/home/mohammad/svo/devel/.private/svo_common/share/svo_common/cmake/svo_commonConfig-version.cmake /home/mohammad/svo/devel/share/svo_common/cmake/svo_commonConfig-version.cmake

@@ -1,1 +1,0 @@
-/home/mohammad/svo/devel/.private/minkindr/share/minkindr/cmake/minkindrConfig-version.cmake

@@ -1,1 +1,0 @@
-/home/mohammad/svo/devel/.private/svo_img_align/lib/pkgconfig/svo_img_align.pc

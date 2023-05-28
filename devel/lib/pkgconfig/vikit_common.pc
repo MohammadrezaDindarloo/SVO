@@ -1,1 +1,0 @@
-/home/mohammad/svo/devel/.private/vikit_common/lib/pkgconfig/vikit_common.pc
