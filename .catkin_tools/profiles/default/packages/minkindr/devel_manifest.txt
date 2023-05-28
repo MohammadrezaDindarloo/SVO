@@ -1,0 +1,5 @@
+minkindr/minkindr
+/home/mohammad/svo/devel/.private/minkindr/cmake.lock /home/mohammad/svo/devel/./cmake.lock
+/home/mohammad/svo/devel/.private/minkindr/lib/pkgconfig/minkindr.pc /home/mohammad/svo/devel/lib/pkgconfig/minkindr.pc
+/home/mohammad/svo/devel/.private/minkindr/share/minkindr/cmake/minkindrConfig.cmake /home/mohammad/svo/devel/share/minkindr/cmake/minkindrConfig.cmake
+/home/mohammad/svo/devel/.private/minkindr/share/minkindr/cmake/minkindrConfig-version.cmake /home/mohammad/svo/devel/share/minkindr/cmake/minkindrConfig-version.cmake

@@ -1,0 +1,6 @@
+rpg_svo_pro_open/vikit/vikit_ros
+/home/mohammad/svo/devel/.private/vikit_ros/cmake.lock /home/mohammad/svo/devel/./cmake.lock
+/home/mohammad/svo/devel/.private/vikit_ros/lib/libvikit_ros.so /home/mohammad/svo/devel/lib/libvikit_ros.so
+/home/mohammad/svo/devel/.private/vikit_ros/lib/pkgconfig/vikit_ros.pc /home/mohammad/svo/devel/lib/pkgconfig/vikit_ros.pc
+/home/mohammad/svo/devel/.private/vikit_ros/share/vikit_ros/cmake/vikit_rosConfig.cmake /home/mohammad/svo/devel/share/vikit_ros/cmake/vikit_rosConfig.cmake
+/home/mohammad/svo/devel/.private/vikit_ros/share/vikit_ros/cmake/vikit_rosConfig-version.cmake /home/mohammad/svo/devel/share/vikit_ros/cmake/vikit_rosConfig-version.cmake

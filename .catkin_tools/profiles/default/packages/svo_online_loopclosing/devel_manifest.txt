@@ -1,0 +1,8 @@
+rpg_svo_pro_open/svo_online_loopclosing
+/home/mohammad/svo/devel/.private/svo_online_loopclosing/cmake.lock /home/mohammad/svo/devel/./cmake.lock
+/home/mohammad/svo/devel/.private/svo_online_loopclosing/lib/libsvo_online_loopclosing.so /home/mohammad/svo/devel/lib/libsvo_online_loopclosing.so
+/home/mohammad/svo/devel/.private/svo_online_loopclosing/lib/libbow.so /home/mohammad/svo/devel/lib/libbow.so
+/home/mohammad/svo/devel/.private/svo_online_loopclosing/lib/svo_online_loopclosing/createvoc /home/mohammad/svo/devel/lib/svo_online_loopclosing/createvoc
+/home/mohammad/svo/devel/.private/svo_online_loopclosing/lib/pkgconfig/svo_online_loopclosing.pc /home/mohammad/svo/devel/lib/pkgconfig/svo_online_loopclosing.pc
+/home/mohammad/svo/devel/.private/svo_online_loopclosing/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig.cmake /home/mohammad/svo/devel/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig.cmake
+/home/mohammad/svo/devel/.private/svo_online_loopclosing/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig-version.cmake /home/mohammad/svo/devel/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig-version.cmake
