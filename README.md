@@ -1,2 +1,2 @@
-# ArduCam_usb_ROS_Node
+# SVO_ROS_Node
 
