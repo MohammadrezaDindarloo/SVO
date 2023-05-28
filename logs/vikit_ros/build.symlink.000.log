@@ -1,0 +1,4 @@
+Symlinking /home/mohammad/svo/devel/lib/libvikit_ros.so
+Symlinking /home/mohammad/svo/devel/lib/pkgconfig/vikit_ros.pc
+Symlinking /home/mohammad/svo/devel/share/vikit_ros/cmake/vikit_rosConfig.cmake
+Symlinking /home/mohammad/svo/devel/share/vikit_ros/cmake/vikit_rosConfig-version.cmake

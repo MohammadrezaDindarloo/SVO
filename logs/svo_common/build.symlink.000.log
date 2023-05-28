@@ -1,0 +1,4 @@
+Symlinking /home/mohammad/svo/devel/lib/libsvo_common.so
+Symlinking /home/mohammad/svo/devel/lib/pkgconfig/svo_common.pc
+Symlinking /home/mohammad/svo/devel/share/svo_common/cmake/svo_commonConfig.cmake
+Symlinking /home/mohammad/svo/devel/share/svo_common/cmake/svo_commonConfig-version.cmake

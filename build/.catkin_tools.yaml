@@ -1,0 +1,6 @@
+devel_space: /home/mohammad/svo/devel
+install: false
+install_space: /home/mohammad/svo/install
+profile: default
+source_space: /home/mohammad/svo/src
+workspace: /home/mohammad/svo

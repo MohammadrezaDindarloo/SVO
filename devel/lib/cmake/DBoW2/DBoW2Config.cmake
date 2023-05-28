@@ -1,0 +1,1 @@
+/home/mohammad/svo/devel/.private/dbow2_catkin/lib/cmake/DBoW2/DBoW2Config.cmake

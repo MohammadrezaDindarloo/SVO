@@ -1,0 +1,142 @@
+Not searching for unused variables given on the command line.
+[36m--[0m The CXX compiler identification is GNU 9.4.0
+[36m--[0m The C compiler identification is GNU 9.4.0
+[36m--[0m Check for working CXX compiler: /usr/bin/c++
+[36m--[0m Check for working CXX compiler: /usr/bin/c++ -- works
+[36m--[0m Detecting CXX compiler ABI info
+[36m--[0m Detecting CXX compiler ABI info - done
+[36m--[0m Detecting CXX compile features
+[36m--[0m Detecting CXX compile features - done
+[36m--[0m Check for working C compiler: /usr/bin/cc
+[36m--[0m Check for working C compiler: /usr/bin/cc -- works
+[36m--[0m Detecting C compiler ABI info
+[36m--[0m Detecting C compiler ABI info - done
+[36m--[0m Detecting C compile features
+[36m--[0m Detecting C compile features - done
+[36m--[0m GTSAM_SOURCE_ROOT_DIR: [/home/mohammad/svo/src/gtsam]
+[36m--[0m Looking for pthread.h
+[36m--[0m Looking for pthread.h - found
+[36m--[0m Looking for pthread_create
+[36m--[0m Looking for pthread_create - not found
+[36m--[0m Looking for pthread_create in pthreads
+[36m--[0m Looking for pthread_create in pthreads - not found
+[36m--[0m Looking for pthread_create in pthread
+[36m--[0m Looking for pthread_create in pthread - found
+[36m--[0m Found Threads: TRUE
+[36m--[0m Found Boost: /usr/include (found suitable version "1.65.1", minimum required is "1.43") found components:  serialization system filesystem thread program_options date_time timer chrono regex atomic
+[36m--[0m Found TBB: /usr/include (found suitable version "2017.0", minimum required is "4.4") found components:  tbb tbbmalloc
+[36m--[0m Could NOT find MKL (missing: MKL_INCLUDE_DIR MKL_LIBRARIES)
+[36m--[0m Found OpenMP_C: -fopenmp (found version "4.5")
+[36m--[0m Found OpenMP_CXX: -fopenmp (found version "4.5")
+[36m--[0m Found OpenMP: TRUE (found version "4.5")
+[36m--[0m Found Eigen version: 3.3.4
+[36m--[0m Building 3rdparty
+[36m--[0m Looking for execinfo.h
+[36m--[0m Looking for execinfo.h - found
+[36m--[0m Looking for getline
+[36m--[0m Looking for getline - found
+[36m--[0m checking for thread-local storage - found
+[36m--[0m Could NOT find GeographicLib (missing: GeographicLib_LIBRARY_DIRS GeographicLib_LIBRARIES GeographicLib_INCLUDE_DIRS)
+[36m--[0m Building base
+[36m--[0m Building geometry
+[36m--[0m Building inference
+[36m--[0m Building symbolic
+[36m--[0m Building discrete
+[36m--[0m Building linear
+[36m--[0m Building nonlinear
+[36m--[0m Building sam
+[36m--[0m Building sfm
+[36m--[0m Building slam
+[36m--[0m Building smart
+[36m--[0m Building navigation
+[36m--[0m GTSAM Version: 4.0.3
+[36m--[0m Install prefix: /home/mohammad/svo/devel
+[36m--[0m Building GTSAM - shared: ON
+[36m--[0m Building base_unstable
+[36m--[0m Building geometry_unstable
+[36m--[0m Building linear_unstable
+[36m--[0m Building discrete_unstable
+[36m--[0m Building dynamics_unstable
+[36m--[0m Building nonlinear_unstable
+[36m--[0m Building slam_unstable
+[36m--[0m Building partition_unstable
+[36m--[0m GTSAM_UNSTABLE Version: 4.0.3
+[36m--[0m Install prefix: /home/mohammad/svo/devel
+[36m--[0m Wrote /home/mohammad/svo/build/gtsam/GTSAMConfig.cmake
+[36m--[0m Found Doxygen: /usr/bin/doxygen (found version "1.8.13") found components:  doxygen dot
+[36m--[0m ===============================================================
+[36m--[0m ================  Configuration Options  ======================
+[36m--[0m   CMAKE_CXX_COMPILER_ID type     : GNU
+[36m--[0m   CMAKE_CXX_COMPILER_VERSION     : 9.4.0
+[36m--[0m   CMake version                  : 3.10.2
+[36m--[0m   CMake generator                : Unix Makefiles
+[36m--[0m   CMake build tool               : /usr/bin/make
+[36m--[0m Build flags
+[36m--[0m   Build Tests                    : Enabled
+[36m--[0m   Build examples with 'make all' : Enabled
+[36m--[0m   Build timing scripts with 'make all': Disabled
+[36m--[0m   Build Docs                     : Enabled
+[36m--[0m   Build shared GTSAM libraries   : Enabled
+[36m--[0m   Put build type in library name : Enabled
+[36m--[0m   Build libgtsam_unstable        : Enabled
+[36m--[0m   Build for native architecture  : Enabled
+[36m--[0m   Build type                     : Release
+[36m--[0m   C compilation flags            :  -O3 -DNDEBUG
+[36m--[0m   C++ compilation flags          :  -Wno-misleading-indentation -O3 -DNDEBUG
+[36m--[0m  GTSAM_COMPILE_FEATURES_PUBLIC                    : cxx_std_11
+[36m--[0m  GTSAM_COMPILE_OPTIONS_PRIVATE                    : -Wall;-fPIC;$<$<CONFIG:Debug>:-g;-fno-inline>;$<$<CONFIG:Release>:-O3>;$<$<CONFIG:Timing>:-g;-O3>;$<$<CONFIG:Profiling>:-O3>;$<$<CONFIG:RelWithDebInfo>:-g;-O3>;-Wno-unused-local-typedefs
+[36m--[0m  GTSAM_COMPILE_OPTIONS_PUBLIC                     : -mno-avx
+[36m--[0m  GTSAM_COMPILE_DEFINITIONS_PRIVATE                : $<$<CONFIG:Debug>:_DEBUG;EIGEN_INITIALIZE_MATRICES_BY_NAN>;$<$<CONFIG:Release>:NDEBUG>;$<$<CONFIG:Timing>:NDEBUG;ENABLE_TIMING>;$<$<CONFIG:Profiling>:NDEBUG>;$<$<CONFIG:RelWithDebInfo>:NDEBUG>
+[36m--[0m  GTSAM_COMPILE_DEFINITIONS_PUBLIC                 :
+[36m--[0m  GTSAM_COMPILE_OPTIONS_PRIVATE_DEBUG              : -g;-fno-inline
+[36m--[0m  GTSAM_COMPILE_OPTIONS_PUBLIC_DEBUG               :
+[36m--[0m  GTSAM_COMPILE_DEFINITIONS_PRIVATE_DEBUG          : _DEBUG;EIGEN_INITIALIZE_MATRICES_BY_NAN
+[36m--[0m  GTSAM_COMPILE_DEFINITIONS_PUBLIC_DEBUG           :
+[36m--[0m  GTSAM_COMPILE_OPTIONS_PRIVATE_RELEASE            : -O3
+[36m--[0m  GTSAM_COMPILE_OPTIONS_PUBLIC_RELEASE             :
+[36m--[0m  GTSAM_COMPILE_DEFINITIONS_PRIVATE_RELEASE        : NDEBUG
+[36m--[0m  GTSAM_COMPILE_DEFINITIONS_PUBLIC_RELEASE         :
+[36m--[0m  GTSAM_COMPILE_OPTIONS_PRIVATE_TIMING             : -g;-O3
+[36m--[0m  GTSAM_COMPILE_OPTIONS_PUBLIC_TIMING              :
+[36m--[0m  GTSAM_COMPILE_DEFINITIONS_PRIVATE_TIMING         : NDEBUG;ENABLE_TIMING
+[36m--[0m  GTSAM_COMPILE_DEFINITIONS_PUBLIC_TIMING          :
+[36m--[0m  GTSAM_COMPILE_OPTIONS_PRIVATE_PROFILING          : -O3
+[36m--[0m  GTSAM_COMPILE_OPTIONS_PUBLIC_PROFILING           :
+[36m--[0m  GTSAM_COMPILE_DEFINITIONS_PRIVATE_PROFILING      : NDEBUG
+[36m--[0m  GTSAM_COMPILE_DEFINITIONS_PUBLIC_PROFILING       :
+[36m--[0m  GTSAM_COMPILE_OPTIONS_PRIVATE_RELWITHDEBINFO     : -g;-O3
+[36m--[0m  GTSAM_COMPILE_OPTIONS_PUBLIC_RELWITHDEBINFO      :
+[36m--[0m  GTSAM_COMPILE_DEFINITIONS_PRIVATE_RELWITHDEBINFO : NDEBUG
+[36m--[0m  GTSAM_COMPILE_DEFINITIONS_PUBLIC_RELWITHDEBINFO  :
+[36m--[0m  GTSAM_COMPILE_OPTIONS_PRIVATE_MINSIZEREL         :
+[36m--[0m  GTSAM_COMPILE_OPTIONS_PUBLIC_MINSIZEREL          :
+[36m--[0m  GTSAM_COMPILE_DEFINITIONS_PRIVATE_MINSIZEREL     :
+[36m--[0m  GTSAM_COMPILE_DEFINITIONS_PUBLIC_MINSIZEREL      :
+[36m--[0m   Use System Eigen                : ON (Using version: 3.3.4)
+[36m--[0m   Use Intel TBB                   : Yes
+[36m--[0m   Eigen will use MKL              : MKL not found
+[36m--[0m   Eigen will use MKL and OpenMP   : OpenMP found but GTSAM_WITH_EIGEN_MKL is disabled
+[36m--[0m   Default allocator               : TBB
+[36m--[0m   Cheirality exceptions enabled   : YES
+[36m--[0m   Build with ccache               : No
+[36m--[0m Packaging flags
+[36m--[0m   CPack Source Generator          : TGZ
+[36m--[0m   CPack Generator                 : TGZ
+[36m--[0m GTSAM flags
+[36m--[0m   Quaternions as default Rot3     : Disabled
+[36m--[0m   Runtime consistency checking    : Disabled
+[36m--[0m   Rot3 retract is full ExpMap     : Enabled
+[36m--[0m   Pose3 retract is full ExpMap    : Enabled
+[36m--[0m   Deprecated in GTSAM 4 allowed   : Enabled
+[36m--[0m   Point3 is typedef to Vector3    : Disabled
+[36m--[0m   Metis-based Nested Dissection   : Enabled
+[36m--[0m   Use tangent-space preintegration: Enabled
+[36m--[0m   Build Wrap                      : Enabled
+[36m--[0m MATLAB toolbox flags
+[36m--[0m   Install MATLAB toolbox          : Disabled
+[36m--[0m Cython toolbox flags
+[36m--[0m   Install Cython toolbox          : Disabled
+[36m--[0m ===============================================================
+[36m--[0m Configuring done
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /home/mohammad/svo/build/gtsam

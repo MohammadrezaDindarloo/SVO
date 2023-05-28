@@ -1,0 +1,1 @@
+/home/mohammad/svo/devel/.private/svo_global_map/share/svo_global_map/cmake/svo_global_mapConfig-version.cmake

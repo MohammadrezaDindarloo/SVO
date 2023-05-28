@@ -1,0 +1,8 @@
+prefix=/home/mohammad/svo/devel/.private/svo_ros
+
+Name: svo_ros
+Description: Description of svo_ros
+Version: 0.1.0
+Cflags: -I/home/mohammad/svo/src/rpg_svo_pro_open/svo_ros/include
+Libs: -L${prefix}/lib -lsvo_ros -lsvo_nodelet
+Requires: cmake_modules cv_bridge eigen_catkin eigen_checks image_transport nodelet roscpp minkindr nav_msgs pcl_ros rpg_common sensor_msgs std_msgs svo svo_cmake svo_common svo_msgs svo_tracker svo_ceres_backend svo_online_loopclosing svo_global_map tf vikit_common vikit_ros visualization_msgs

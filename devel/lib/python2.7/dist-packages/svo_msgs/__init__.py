@@ -1,0 +1,1 @@
+/home/mohammad/svo/devel/.private/svo_msgs/lib/python2.7/dist-packages/svo_msgs/__init__.py

@@ -1,0 +1,1 @@
+/home/mohammad/svo/devel/.private/ceres_catkin/share/ceres_catkin/cmake/ceres_catkinConfig.cmake

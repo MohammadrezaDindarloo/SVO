@@ -1,0 +1,5 @@
+Symlinking /home/mohammad/svo/devel/lib/libsvo_pgo.so
+Symlinking /home/mohammad/svo/devel/lib/pkgconfig/svo_pgo.pc
+Symlinking /home/mohammad/svo/devel/lib/svo_pgo/test_pgo
+Symlinking /home/mohammad/svo/devel/share/svo_pgo/cmake/svo_pgoConfig-version.cmake
+Symlinking /home/mohammad/svo/devel/share/svo_pgo/cmake/svo_pgoConfig.cmake
