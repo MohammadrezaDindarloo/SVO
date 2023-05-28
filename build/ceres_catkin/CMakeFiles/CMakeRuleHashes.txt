@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+66ac8b879d03084021cdd42d7fe1dacd CMakeFiles/ceres_src
+6e1bbf89d108712957ca619404f6e966 CMakeFiles/ceres_src-complete
+39a82f7f14f8b729310775516f5da875 CMakeFiles/clean_test_results
+23ebe79d96c1ca4e5b4514f18aab78d7 ceres_src-prefix/src/ceres_src-stamp/ceres_src-build
+64c3a7346b5e3f12118db4a9248a019f ceres_src-prefix/src/ceres_src-stamp/ceres_src-configure
+b3eedc18bfbe5c90d1ca954ce08a660b ceres_src-prefix/src/ceres_src-stamp/ceres_src-download
+4a1cd06869a25eff00d040fa3fa118ef ceres_src-prefix/src/ceres_src-stamp/ceres_src-install
+513576d3e159306bf0b80a2d733a0183 ceres_src-prefix/src/ceres_src-stamp/ceres_src-mkdir
+638812b1f4b05f03d9b5c5c0d84dcc58 ceres_src-prefix/src/ceres_src-stamp/ceres_src-patch
+e21c6f19a620fc022fd5814dad0d563f ceres_src-prefix/src/ceres_src-stamp/ceres_src-update

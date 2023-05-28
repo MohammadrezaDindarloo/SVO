@@ -1,0 +1,1 @@
+/home/mohammad/svo/devel/.private/vikit_ros/share/vikit_ros/cmake/vikit_rosConfig-version.cmake

@@ -1,0 +1,4 @@
+Symlinking /home/mohammad/svo/devel/lib/libsvo_tracker.so
+Symlinking /home/mohammad/svo/devel/lib/pkgconfig/svo_tracker.pc
+Symlinking /home/mohammad/svo/devel/share/svo_tracker/cmake/svo_trackerConfig.cmake
+Symlinking /home/mohammad/svo/devel/share/svo_tracker/cmake/svo_trackerConfig-version.cmake

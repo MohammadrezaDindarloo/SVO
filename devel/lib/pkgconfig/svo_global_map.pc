@@ -1,0 +1,1 @@
+/home/mohammad/svo/devel/.private/svo_global_map/lib/pkgconfig/svo_global_map.pc

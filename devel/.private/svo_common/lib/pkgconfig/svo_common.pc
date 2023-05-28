@@ -1,0 +1,8 @@
+prefix=/home/mohammad/svo/devel/.private/svo_common
+
+Name: svo_common
+Description: Description of svo_common
+Version: 0.0.1
+Cflags: -I/home/mohammad/svo/src/rpg_svo_pro_open/svo_common/include
+Libs: -L${prefix}/lib -lsvo_common
+Requires: svo_cmake vikit_common vikit_cameras fast glog_catkin eigen_catkin eigen_checks

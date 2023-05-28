@@ -1,0 +1,1 @@
+/home/mohammad/svo/devel/.private/svo_msgs/lib/pkgconfig/svo_msgs.pc

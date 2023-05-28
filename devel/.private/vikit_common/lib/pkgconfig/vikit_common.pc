@@ -1,0 +1,8 @@
+prefix=/home/mohammad/svo/devel/.private/vikit_common
+
+Name: vikit_common
+Description: Description of vikit_common
+Version: 0.0.0
+Cflags: -I/home/mohammad/svo/src/rpg_svo_pro_open/vikit/vikit_common/include
+Libs: -L${prefix}/lib -lvikit_common
+Requires: cv_bridge eigen_catkin glog_catkin minkindr roscpp svo_cmake

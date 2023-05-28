@@ -1,0 +1,4 @@
+Symlinking /home/mohammad/svo/devel/lib/libsvo_ceres_backend.so
+Symlinking /home/mohammad/svo/devel/lib/pkgconfig/svo_ceres_backend.pc
+Symlinking /home/mohammad/svo/devel/share/svo_ceres_backend/cmake/svo_ceres_backendConfig-version.cmake
+Symlinking /home/mohammad/svo/devel/share/svo_ceres_backend/cmake/svo_ceres_backendConfig.cmake

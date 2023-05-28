@@ -1,0 +1,8 @@
+prefix=/home/mohammad/svo/devel/.private/svo_tracker
+
+Name: svo_tracker
+Description: Description of svo_tracker
+Version: 0.0.1
+Cflags: -I/home/mohammad/svo/src/rpg_svo_pro_open/svo_tracker/include
+Libs: -L${prefix}/lib -lsvo_tracker
+Requires: roslib glog_catkin cv_bridge eigen_catkin svo_common svo_direct svo_test_utils

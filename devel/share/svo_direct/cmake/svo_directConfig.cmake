@@ -1,0 +1,1 @@
+/home/mohammad/svo/devel/.private/svo_direct/share/svo_direct/cmake/svo_directConfig.cmake

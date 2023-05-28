@@ -1,0 +1,1 @@
+/home/mohammad/svo/devel/.private/ceres_catkin/include/ceres/c_api.h

@@ -1,0 +1,1 @@
+/home/mohammad/svo/devel/.private/vikit_ros/lib/pkgconfig/vikit_ros.pc

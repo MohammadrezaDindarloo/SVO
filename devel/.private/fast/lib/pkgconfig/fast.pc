@@ -1,0 +1,8 @@
+prefix=/home/mohammad/svo/devel/.private/fast
+
+Name: fast
+Description: Description of fast
+Version: 0.0.0
+Cflags: -I/home/mohammad/svo/src/fast_neon/include
+Libs: -L${prefix}/lib -lfast
+Requires: 
