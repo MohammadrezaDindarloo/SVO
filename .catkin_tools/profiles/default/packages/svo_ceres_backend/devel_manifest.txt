@@ -1,6 +1,0 @@
-rpg_svo_pro_open/svo_ceres_backend
-/home/mohammad/svo/devel/.private/svo_ceres_backend/cmake.lock /home/mohammad/svo/devel/./cmake.lock
-/home/mohammad/svo/devel/.private/svo_ceres_backend/lib/libsvo_ceres_backend.so /home/mohammad/svo/devel/lib/libsvo_ceres_backend.so
-/home/mohammad/svo/devel/.private/svo_ceres_backend/lib/pkgconfig/svo_ceres_backend.pc /home/mohammad/svo/devel/lib/pkgconfig/svo_ceres_backend.pc
-/home/mohammad/svo/devel/.private/svo_ceres_backend/share/svo_ceres_backend/cmake/svo_ceres_backendConfig-version.cmake /home/mohammad/svo/devel/share/svo_ceres_backend/cmake/svo_ceres_backendConfig-version.cmake
-/home/mohammad/svo/devel/.private/svo_ceres_backend/share/svo_ceres_backend/cmake/svo_ceres_backendConfig.cmake /home/mohammad/svo/devel/share/svo_ceres_backend/cmake/svo_ceres_backendConfig.cmake

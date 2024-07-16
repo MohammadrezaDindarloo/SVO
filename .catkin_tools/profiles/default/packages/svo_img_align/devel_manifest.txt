@@ -1,6 +1,0 @@
-rpg_svo_pro_open/svo_img_align
-/home/mohammad/svo/devel/.private/svo_img_align/cmake.lock /home/mohammad/svo/devel/./cmake.lock
-/home/mohammad/svo/devel/.private/svo_img_align/lib/libsvo_img_align.so /home/mohammad/svo/devel/lib/libsvo_img_align.so
-/home/mohammad/svo/devel/.private/svo_img_align/lib/pkgconfig/svo_img_align.pc /home/mohammad/svo/devel/lib/pkgconfig/svo_img_align.pc
-/home/mohammad/svo/devel/.private/svo_img_align/share/svo_img_align/cmake/svo_img_alignConfig-version.cmake /home/mohammad/svo/devel/share/svo_img_align/cmake/svo_img_alignConfig-version.cmake
-/home/mohammad/svo/devel/.private/svo_img_align/share/svo_img_align/cmake/svo_img_alignConfig.cmake /home/mohammad/svo/devel/share/svo_img_align/cmake/svo_img_alignConfig.cmake

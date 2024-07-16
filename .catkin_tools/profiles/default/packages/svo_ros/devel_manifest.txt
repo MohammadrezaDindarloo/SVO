@@ -1,9 +1,0 @@
-rpg_svo_pro_open/svo_ros
-/home/mohammad/svo/devel/.private/svo_ros/cmake.lock /home/mohammad/svo/devel/./cmake.lock
-/home/mohammad/svo/devel/.private/svo_ros/lib/libsvo_ros.so /home/mohammad/svo/devel/lib/libsvo_ros.so
-/home/mohammad/svo/devel/.private/svo_ros/lib/libsvo_nodelet.so /home/mohammad/svo/devel/lib/libsvo_nodelet.so
-/home/mohammad/svo/devel/.private/svo_ros/lib/pkgconfig/svo_ros.pc /home/mohammad/svo/devel/lib/pkgconfig/svo_ros.pc
-/home/mohammad/svo/devel/.private/svo_ros/lib/svo_ros/svo_benchmark /home/mohammad/svo/devel/lib/svo_ros/svo_benchmark
-/home/mohammad/svo/devel/.private/svo_ros/lib/svo_ros/svo_node /home/mohammad/svo/devel/lib/svo_ros/svo_node
-/home/mohammad/svo/devel/.private/svo_ros/share/svo_ros/cmake/svo_rosConfig.cmake /home/mohammad/svo/devel/share/svo_ros/cmake/svo_rosConfig.cmake
-/home/mohammad/svo/devel/.private/svo_ros/share/svo_ros/cmake/svo_rosConfig-version.cmake /home/mohammad/svo/devel/share/svo_ros/cmake/svo_rosConfig-version.cmake

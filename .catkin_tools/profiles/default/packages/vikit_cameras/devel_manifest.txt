@@ -1,6 +1,0 @@
-rpg_svo_pro_open/vikit/vikit_cameras
-/home/mohammad/svo/devel/.private/vikit_cameras/cmake.lock /home/mohammad/svo/devel/./cmake.lock
-/home/mohammad/svo/devel/.private/vikit_cameras/lib/libvikit_cameras.so /home/mohammad/svo/devel/lib/libvikit_cameras.so
-/home/mohammad/svo/devel/.private/vikit_cameras/lib/pkgconfig/vikit_cameras.pc /home/mohammad/svo/devel/lib/pkgconfig/vikit_cameras.pc
-/home/mohammad/svo/devel/.private/vikit_cameras/share/vikit_cameras/cmake/vikit_camerasConfig-version.cmake /home/mohammad/svo/devel/share/vikit_cameras/cmake/vikit_camerasConfig-version.cmake
-/home/mohammad/svo/devel/.private/vikit_cameras/share/vikit_cameras/cmake/vikit_camerasConfig.cmake /home/mohammad/svo/devel/share/vikit_cameras/cmake/vikit_camerasConfig.cmake

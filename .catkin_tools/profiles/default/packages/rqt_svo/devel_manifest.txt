@@ -1,8 +1,0 @@
-rpg_svo_pro_open/rqt_svo
-/home/mohammad/svo/devel/.private/rqt_svo/cmake.lock /home/mohammad/svo/devel/./cmake.lock
-/home/mohammad/svo/devel/.private/rqt_svo/bin/rqt_svo /home/mohammad/svo/devel/bin/rqt_svo
-/home/mohammad/svo/devel/.private/rqt_svo/bin/cmake.lock /home/mohammad/svo/devel/bin/cmake.lock
-/home/mohammad/svo/devel/.private/rqt_svo/lib/python2.7/dist-packages/rqt_svo/__init__.py /home/mohammad/svo/devel/lib/python2.7/dist-packages/rqt_svo/__init__.py
-/home/mohammad/svo/devel/.private/rqt_svo/lib/pkgconfig/rqt_svo.pc /home/mohammad/svo/devel/lib/pkgconfig/rqt_svo.pc
-/home/mohammad/svo/devel/.private/rqt_svo/share/rqt_svo/cmake/rqt_svoConfig.cmake /home/mohammad/svo/devel/share/rqt_svo/cmake/rqt_svoConfig.cmake
-/home/mohammad/svo/devel/.private/rqt_svo/share/rqt_svo/cmake/rqt_svoConfig-version.cmake /home/mohammad/svo/devel/share/rqt_svo/cmake/rqt_svoConfig-version.cmake
