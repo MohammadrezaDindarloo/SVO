@@ -1,1 +1,0 @@
-/home/mohammad/svo/devel/.private/vikit_cameras/share/vikit_cameras/cmake/vikit_camerasConfig-version.cmake

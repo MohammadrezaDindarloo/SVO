@@ -1,1 +1,0 @@
-/home/mohammad/svo/devel/.private/dbow2_catkin/include/DBoW2/FSurf64.h

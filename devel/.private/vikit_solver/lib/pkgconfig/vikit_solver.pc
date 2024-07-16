@@ -1,8 +1,0 @@
-prefix=/home/mohammad/svo/devel/.private/vikit_solver
-
-Name: vikit_solver
-Description: Description of vikit_solver
-Version: 0.0.0
-Cflags: -I/home/mohammad/svo/src/rpg_svo_pro_open/vikit/vikit_solver/include
-Libs: -L${prefix}/lib -lvikit_solver
-Requires: eigen_catkin glog_catkin

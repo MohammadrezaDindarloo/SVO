@@ -1,1 +1,0 @@
-set(ORDERED_PATHS "/home/mohammad/svo/devel/.private/vikit_common/lib;/home/mohammad/svo/devel/.private/gflags_catkin/lib;/opt/ros/melodic/lib")

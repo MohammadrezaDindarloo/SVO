@@ -1,2 +1,0 @@
-set(svo_msgs_MESSAGE_FILES "/home/mohammad/svo/src/rpg_svo_pro_open/svo_msgs/msg/DenseInput.msg;/home/mohammad/svo/src/rpg_svo_pro_open/svo_msgs/msg/DenseInputWithFeatures.msg;/home/mohammad/svo/src/rpg_svo_pro_open/svo_msgs/msg/Feature.msg;/home/mohammad/svo/src/rpg_svo_pro_open/svo_msgs/msg/Info.msg;/home/mohammad/svo/src/rpg_svo_pro_open/svo_msgs/msg/NbvTrajectory.msg")
-set(svo_msgs_SERVICE_FILES "")

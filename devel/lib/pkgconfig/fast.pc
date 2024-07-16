@@ -1,1 +1,0 @@
-/home/mohammad/svo/devel/.private/fast/lib/pkgconfig/fast.pc

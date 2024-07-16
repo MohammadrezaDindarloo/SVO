@@ -1,3 +1,0 @@
-repository='git@github.com:dorian3d/DBoW2.git'
-module=''
-tag=''

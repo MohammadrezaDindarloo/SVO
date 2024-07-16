@@ -1,8 +1,0 @@
-/home/mohammad/svo/build/dbow2_catkin/dbow2_src-prefix/src/dbow2_src-build/CMakeFiles/install/strip.dir
-/home/mohammad/svo/build/dbow2_catkin/dbow2_src-prefix/src/dbow2_src-build/CMakeFiles/install.dir
-/home/mohammad/svo/build/dbow2_catkin/dbow2_src-prefix/src/dbow2_src-build/CMakeFiles/list_install_components.dir
-/home/mohammad/svo/build/dbow2_catkin/dbow2_src-prefix/src/dbow2_src-build/CMakeFiles/rebuild_cache.dir
-/home/mohammad/svo/build/dbow2_catkin/dbow2_src-prefix/src/dbow2_src-build/CMakeFiles/edit_cache.dir
-/home/mohammad/svo/build/dbow2_catkin/dbow2_src-prefix/src/dbow2_src-build/CMakeFiles/install/local.dir
-/home/mohammad/svo/build/dbow2_catkin/dbow2_src-prefix/src/dbow2_src-build/CMakeFiles/demo.dir
-/home/mohammad/svo/build/dbow2_catkin/dbow2_src-prefix/src/dbow2_src-build/CMakeFiles/DBoW2.dir

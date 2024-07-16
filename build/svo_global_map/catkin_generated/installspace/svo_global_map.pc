@@ -1,8 +1,0 @@
-prefix=/home/mohammad/svo/install
-
-Name: svo_global_map
-Description: Description of svo_global_map
-Version: 0.0.1
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib -lsvo_global_map
-Requires: svo_vio_common svo_common rpg_common

@@ -1,1 +1,0 @@
-/home/mohammad/svo/devel/.private/vikit_solver/share/vikit_solver/cmake/vikit_solverConfig-version.cmake
