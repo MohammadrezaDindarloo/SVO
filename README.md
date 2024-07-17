@@ -78,6 +78,38 @@ You need to update outdated OpenCV constants that are not recognized in newer ve
 3. Replace `CV_WINDOW_AUTOSIZE`:
    - Find and replace all instances of `CV_WINDOW_AUTOSIZE` with `cv::WINDOW_AUTOSIZE` in your code.
      ```
-     sed -i 's/CV_WINDOW_AUTOSIZE/cv::WINDOW_AUTOSIZE/g' $(find /home/ali/catkin_ws/src -type f -name '*.cpp')
+     sed -i 's/CV_WINDOW_AUTOSIZE/cv::WINDOW_AUTOSIZE/g' $(find ./catkin_ws/src -type f -name '*.cpp')
      ```
 
+### ROS dependencies
+Sometimes `cmake-modules` is missing (required for including Eigen in ROS Indigo):
+```
+sudo apt-get install ros-hydro-cmake-modules
+```
+
+### SVO
+Now we are ready to build SVO. Clone it into your catkin workspace:
+```
+cd catkin_ws/src
+git clone https://github.com/uzh-rpg/rpg_svo.git
+```
+If you installed `g2o` then set `HAVE_G2O` in `svo/CMakeLists.txt` to `TRUE`.
+If you installed `g2o` in `$HOME/installdir`, you can tell find_package by setting the environment variable `G2O_ROOT`
+```
+export G2O_ROOT=$HOME/installdir
+```
+Once again you need to update outdated OpenCV constants that are not recognized in newer versions of OpenCV.
+1. `CV_GRAY2RGB` is replaced with `cv::COLOR_GRAY2RGB`.
+   ```
+   find ./ -type f -exec sed -i 's/CV_GRAY2RGB/cv::COLOR_GRAY2RGB/g' {} +
+   ```
+2. `CV_FILLED` is replaced with `cv::FILLED`.
+   ```
+   find ./ -type f -exec sed -i 's/CV_FILLED/cv::FILLED/g' {} +
+   ```
+
+Finally, build and source the `setup.bash`:
+```
+catkin_make
+source devel/setup.bash
+```
