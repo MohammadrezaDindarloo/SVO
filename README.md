@@ -115,6 +115,16 @@ source devel/setup.bash
 ```
 
 # Run Using ROS
+
+## Run SVO on a Dataset
+First you have to save a video stream into a bag file in ROS. In order to do it, you need to record the relevant topics that include the video data. Here are the steps to achieve this:
+1. Identify the Topic:
+   Determine the topic name that publishes the video data, such as `/camera/image_raw`.
+2. Use rosbag to Record:
+   Use the `rosbag` command-line tool to record the topic into a bag file.
+   ```
+   rosbag record -O my_video.bag /camera/image_raw
+   ```
 Open a new console and start SVO with the prepared launchfile:
 ```
 roslaunch svo_ros test_rig3.launch
@@ -125,6 +135,7 @@ rosrun rviz rviz -d <PATH TO rpg_svo>/svo_ros/rviz_config.rviz
 ```
 Now you are ready to start the rosbag. Open a new console and change to the directory where you have downloaded the example dataset. Then type:
 ```
-rosbag play airground_rig_s3_2013-03-18_21-38-48.bag
+rosbag play my_video.bag
 ```
 Now you should see the video with tracked features (green) and in RViz how the camera moves. If you want to see the number of tracked features, fps and tracking quality, run the GUI.
+
