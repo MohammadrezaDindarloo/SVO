@@ -115,3 +115,16 @@ source devel/setup.bash
 ```
 
 # Run Using ROS
+Open a new console and start SVO with the prepared launchfile:
+```
+roslaunch svo_ros test_rig3.launch
+```
+Start RVIZ (Robot Visualizer) in a new console
+```
+rosrun rviz rviz -d <PATH TO rpg_svo>/svo_ros/rviz_config.rviz
+```
+Now you are ready to start the rosbag. Open a new console and change to the directory where you have downloaded the example dataset. Then type:
+```
+rosbag play airground_rig_s3_2013-03-18_21-38-48.bag
+```
+Now you should see the video with tracked features (green) and in RViz how the camera moves. If you want to see the number of tracked features, fps and tracking quality, run the GUI.
