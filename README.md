@@ -24,3 +24,37 @@ with the corrected line:
 unit_complex_ = std::complex<double>(1.0, 0.0);
 ```
 After making these changes, try rebuilding the project.
+
+### Fast - Corner Detector
+The Fast detector by Edward Rosten is used to detect corners. To simplify installation we provide a CMake package that contains the fast detector from the libCVD library (http://www.edwardrosten.com/cvd/).
+```
+cd workspace
+git clone https://github.com/uzh-rpg/fast.git
+cd fast
+mkdir build
+cd build
+cmake ..
+make
+```
+
+### g2o - General Graph Optimization OPTIONAL
+Only required if you want to run bundle adjustment. It is not necessary for visual odometry. In fact, we don't run it on our MAVs. g2o requires the following system dependencies: `cmake, libeigen3-dev, libsuitesparse-dev, libqt4-dev, qt4-qmake, libqglviewer-qt4-dev`, install them with `apt-get`.
+
+Install `g2o` from source:
+```
+git clone https://github.com/RainerKuemmerle/g2o.git
+cd g2o
+mkdir build
+cd build
+cmake ..
+make
+sudo make install
+```
+
+### vikit - Some useful tools that we need
+vikit for contains camera models, some math and interpolation functions that SVO needs. vikit is a catkin project, therefore, download it into your catkin workspace source folder.
+```
+cd catkin_ws/src
+git clone https://github.com/uzh-rpg/rpg_vikit.git
+```
+
