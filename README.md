@@ -60,4 +60,24 @@ vikit for contains camera models, some math and interpolation functions that SVO
 cd catkin_ws/src
 git clone https://github.com/uzh-rpg/rpg_vikit.git
 ```
+Also python `em`(empy) module is required:
+```
+pip install empy
+```
+You need to update outdated OpenCV constants that are not recognized in newer versions of OpenCV.
+1. Replace `CV_INTER_LINEAR`:
+   - Find and replace all instances of `CV_INTER_LINEAR` with `cv::INTER_LINEAR` in your code.
+     ```
+     sed -i 's/CV_INTER_LINEAR/cv::INTER_LINEAR/g' $(find ./catkin_ws/src -type f -name '*.cpp')
+     ```
+2. Replace `CV_RANSAC`:
+   - Find and replace all instances of `CV_RANSAC` with `cv::RANSAC` in your code.
+     ```
+     sed -i 's/CV_RANSAC/cv::RANSAC/g' $(find ./catkin_ws/src -type f -name '*.cpp')
+     ```
+3. Replace `CV_WINDOW_AUTOSIZE`:
+   - Find and replace all instances of `CV_WINDOW_AUTOSIZE` with `cv::WINDOW_AUTOSIZE` in your code.
+     ```
+     sed -i 's/CV_WINDOW_AUTOSIZE/cv::WINDOW_AUTOSIZE/g' $(find /home/ali/catkin_ws/src -type f -name '*.cpp')
+     ```
 
