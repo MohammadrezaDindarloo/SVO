@@ -1,7 +1,5 @@
-We use two workspaces, one for the plain CMake projects `Sophus`, `Fast` and optionally `g2o` and another workspace for the ROS-Catkin projects `rpg_vikit` and `rpg_svo`. Make sure to clone in the right folder.
-
-
 # Installation Using ROS
+We use two workspaces, one for the plain CMake projects `Sophus`, `Fast` and optionally `g2o` and another workspace for the ROS-Catkin projects `rpg_vikit` and `rpg_svo`. Make sure to clone in the right folder.
 
 ### Sophus - Lie groups
 Sophus by Hauke Strasdat implements Lie groups that we need to describe rigid body transformations. Checkout in your workspace for plain CMake projects.
@@ -137,5 +135,7 @@ Now you are ready to start the rosbag. Open a new console and change to the dire
 ```
 rosbag play my_video.bag
 ```
-Now you should see the video with tracked features (green) and in RViz how the camera moves. If you want to see the number of tracked features, fps and tracking quality, run the GUI.
+Now you should see the video with tracked features (green) and in RViz how the camera moves.
+
+For more instructions visit SVO wiki. (https://github.com/uzh-rpg/rpg_svo/wiki)
 
