@@ -113,3 +113,5 @@ Finally, build and source the `setup.bash`:
 catkin_make
 source devel/setup.bash
 ```
+
+# Run Using ROS
