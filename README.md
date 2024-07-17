@@ -1,5 +1,6 @@
 We use two workspaces, one for the plain CMake projects `Sophus`, `Fast` and optionally `g2o` and another workspace for the ROS-Catkin projects `rpg_vikit` and `rpg_svo`. Make sure to clone in the right folder.
 
+
 # Installation Using ROS
 
 ### Sophus - Lie groups
